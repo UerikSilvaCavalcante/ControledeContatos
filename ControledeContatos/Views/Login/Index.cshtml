@@ -1,0 +1,55 @@
+﻿@model LoginModel
+@{
+	Layout = "_LayoutDeslogado";
+	ViewData["Title"] = "Login";
+}
+
+@if (TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        <button type="button" class="btn btn-danger btn-sm close-alert" aria-label="Close">X</button>
+        @TempData["MensagemErro"]
+    </div>
+}
+
+<div class="d-flex flex-column col-4 mx-auto secondary" style="margin-top: 10%; border-radius: 5px">
+    <div class="text-lg-center">
+        <h1>Bem Vindo de Volta</h1>
+    </div>
+
+    <form asp-controller="Login" asp-action="Entrar" method="post" class="d-flex flex-column  mx-auto" style="margin-top: 5%">
+        <div class="mb-3">
+            <label for="Login" class="form-label">Login</label>
+            <input type="text" asp-for="Login" class="form-control input" id="Login">
+            @Html.ValidationMessageFor(x => x.Login)
+        </div>
+        <div class="mb-3">
+            <label for="Senha" class="form-label">Senha</label>
+            <input type="password" asp-for="Senha" class="form-control input" id="Senha">
+            <input type="checkbox" id="ShowPass" name="" value=""  title="Mostrar Senha" class="position-absolute" style="transform: translateX(260px) translateY(-25px); width: 15px; height: 15px;"/>
+            @Html.ValidationMessageFor(x => x.Senha)
+
+            <p class="mb-4 text-sm-center mx-auto">
+                Esqueceu sua senha?
+                <a asp-action="RedefinirSenha" asp-controller="Login" class="text-primary text-gradient font-weight-bold">
+                    Redefinir minha senha
+                </a>
+            </p>
+        </div><div class="d-grid gap-2 mb-2">
+            <button type="submit" class="btn btn-primary btn-block ">Entrar</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('ShowPass').addEventListener('change', function () {
+            var senhaInput = document.getElementById('Senha');
+            if (this.checked) {
+                senhaInput.type = 'text';
+            } else {
+                senhaInput.type = 'password';
+            }
+        });
+    </script>
+}
