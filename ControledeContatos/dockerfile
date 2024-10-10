@@ -3,11 +3,11 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copie os arquivos de projeto e restaure as dependências
-COPY ControledeContatos/*.csproj ./
+COPY *.csproj ./
 RUN dotnet restore
 
 # Copie o restante dos arquivos e compile o projeto
-COPY . ./ControledeContatos
+COPY . ./
 RUN dotnet publish -c Release -o out
 
 # Use a imagem oficial do .NET Runtime
