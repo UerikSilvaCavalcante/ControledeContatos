@@ -3,60 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\views\\usuario\\_contatosusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\views\\usuario\\_contatosusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\views\\alterarsenha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\views\\alterarsenha\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\data\\map\\contatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\data\\map\\contatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\controledecontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\controledecontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,9 +13,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 368,
-          "SelectedChildIndex": 6,
+          "DockedHeight": 334,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControledeContatos",
+              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\ControledeContatos.csproj",
+              "RelativeDocumentMoniker": "ControledeContatos\\ControledeContatos.csproj",
+              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\ControledeContatos.csproj",
+              "RelativeToolTip": "ControledeContatos\\ControledeContatos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T23:51:34.706Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -78,183 +39,11 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LayoutDeslogado.cshtml",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
-              "RelativeDocumentMoniker": "ControledeContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
-              "RelativeToolTip": "ControledeContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T01:48:26.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ControledeContatos\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T01:23:29.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Models\\LoginModel.cs",
-              "RelativeToolTip": "ControledeContatos\\Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T01:22:54.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "ControledeContatos\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "ControledeContatos\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T01:12:09.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ContatosUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Usuario\\_ContatosUsuario.cshtml",
-              "RelativeDocumentMoniker": "ControledeContatos\\Views\\Usuario\\_ContatosUsuario.cshtml",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Usuario\\_ContatosUsuario.cshtml",
-              "RelativeToolTip": "ControledeContatos\\Views\\Usuario\\_ContatosUsuario.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T01:05:31.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\AlterarSenha\\Index.cshtml",
-              "RelativeDocumentMoniker": "ControledeContatos\\Views\\AlterarSenha\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\AlterarSenha\\Index.cshtml",
-              "RelativeToolTip": "ControledeContatos\\Views\\AlterarSenha\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-09T01:02:35.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Repositorio\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "ControledeContatos\\Repositorio\\UsuarioRepositorio.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAmwDgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T00:51:46.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "ControledeContatos\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T23:45:03.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Controllers\\ContatoController.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Controllers\\ContatoController.cs",
-              "RelativeToolTip": "ControledeContatos\\Controllers\\ContatoController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAuwFkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T23:44:08.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ContatoModel.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Models\\ContatoModel.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Models\\ContatoModel.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Models\\ContatoModel.cs",
-              "RelativeToolTip": "ControledeContatos\\Models\\ContatoModel.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:56:31.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ContatoMap.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Data\\Map\\ContatoMap.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Data\\Map\\ContatoMap.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Data\\Map\\ContatoMap.cs",
-              "RelativeToolTip": "ControledeContatos\\Data\\Map\\ContatoMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:43:45.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Models\\UsuarioModel.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Models\\UsuarioModel.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Models\\UsuarioModel.cs",
-              "RelativeToolTip": "ControledeContatos\\Models\\UsuarioModel.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAuwB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T22:21:03.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Program.cs",
-              "RelativeDocumentMoniker": "ControledeContatos\\Program.cs",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Program.cs",
-              "RelativeToolTip": "ControledeContatos\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAACoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T23:32:12.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\appsettings.json",
-              "RelativeDocumentMoniker": "ControledeContatos\\appsettings.json",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\appsettings.json",
-              "RelativeToolTip": "ControledeContatos\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-06T23:00:20.199Z"
             }
           ]
         },
@@ -265,6 +54,16 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
             }
           ]
         }
