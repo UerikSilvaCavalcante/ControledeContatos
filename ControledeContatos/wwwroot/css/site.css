@@ -13,6 +13,10 @@
     --dark: #343a40;
 }
 
+html{
+    overflow:hidden;
+}
+
 .btn-primary{
     color: var(--primary);
     background-color: var(--primary-btn);

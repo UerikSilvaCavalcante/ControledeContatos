@@ -9,21 +9,21 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ControledeContatos.styles.css" asp-append-version="true" />
 </head>
-<body class="secondary">
+<body class="secondary" style="height:100dvh; display:flex; flex-direction:column; justify-content:space-between;">
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light primary mb-3" style="box-shadow: 2px 2px 4px black" >
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light primary " style="box-shadow: 2px 2px 4px black" >
             <div class="container-fluid primary">
                 @await Component.InvokeAsync("Menu")
             </div>
         </nav>
     </header>
-    <div class="container secondary">
-        <main role="main" class="pb-3">
+    <div class="container secondary h-100">
+        <main role="main" class="pb-3 h-100 d-flex flex-column justify-content-center align-content-center">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="footer text-muted primary">
+    <footer class=" text-muted primary">
         <div class="container ">
             &copy; 2024 - Controle de Contatos 
         </div>

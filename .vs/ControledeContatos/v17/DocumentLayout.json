@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\controledecontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\controledecontatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\_layoutdeslogado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|c:\\users\\ueris\\onedrive\\documentos\\progama\u00E7\u00E3o\\c#-project\\controledecontatos\\controledecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E57A9C4-56DA-4E28-8B69-5033D6DFD1B2}|ControledeContatos\\ControledeContatos.csproj|solutionrelative:controledecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,56 +26,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 334,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ControledeContatos",
-              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\ControledeContatos.csproj",
-              "RelativeDocumentMoniker": "ControledeContatos\\ControledeContatos.csproj",
-              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\ControledeContatos.csproj",
-              "RelativeToolTip": "ControledeContatos\\ControledeContatos.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T23:51:34.706Z",
+              "DocumentIndex": 1,
+              "Title": "_LayoutDeslogado.cshtml",
+              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "RelativeDocumentMoniker": "ControledeContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "RelativeToolTip": "ControledeContatos\\Views\\Shared\\_LayoutDeslogado.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T01:40:05.672Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControledeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControledeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T01:56:14.721Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ControledeContatos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ControledeContatos\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-20T01:55:18.442Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 236,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 133,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControledeContatos\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ueris\\OneDrive\\Documentos\\Progama\u00E7\u00E3o\\C#-Project\\ControledeContatos\\ControledeContatos\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ControledeContatos\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T01:33:13.528Z",
+              "EditorCaption": ""
             }
           ]
         }

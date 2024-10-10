@@ -104,3 +104,8 @@ C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\Co
 C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\obj\Debug\net8.0\ControledeContatos.pdb
 C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\obj\Debug\net8.0\ControledeContatos.genruntimeconfig.cache
 C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\obj\Debug\net8.0\ref\ControledeContatos.dll
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\bin\Debug\net8.0\out\web.config
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\bin\Debug\net8.0\out\appsettings.json
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\bin\Debug\net8.0\out\ControledeContatos.deps.json
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\bin\Debug\net8.0\out\ControledeContatos.runtimeconfig.json
