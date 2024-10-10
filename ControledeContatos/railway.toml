@@ -1,6 +1,6 @@
 [build]
 builder = "dockerfile"
-dockerfilePath = "./Dockerfile"
+dockerfilePath = "./ControledeContatos/dockerfile"
 
 [deploy]
 startCommand = "dotnet ControledeContatos.dll"
