@@ -4,7 +4,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-	<CI Condition="'$(CI)' == ''">false</CI>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,9 +18,4 @@
     </PackageReference>
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.8" />
   </ItemGroup>
-
-	<Target Name="CustomBuildStep" AfterTargets="Build">
-		<Message Importance="high" Text="CI mode is $(CI)" />
-		<Exec Command="echo Custom build step executed with CI=$(CI)" />
-	</Target>
 </Project>

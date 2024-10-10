@@ -1,0 +1,116 @@
+:root {
+    --primary: #2A4747;
+    --primary-hover: #439775;
+    --primary-btn: #48BF84;
+    --secondary-btn: #439775;
+    --secondary-hover: #376F5E;
+    --secondary: #A1C5B6;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+}
+
+.btn-primary{
+    color: var(--primary);
+    background-color: var(--primary-btn);
+    border-color: var(--primary);
+}
+
+.btn-primary:hover {
+    color: var(--primary-btn);
+    background-color: var(--primary);
+    border-color: var(--primary-btn);
+    transition: color .3s ease-in-out;
+}
+
+.btn-primary:focus{
+    color: var(--secondary);
+    background-color: var(--primary-hover);
+    border-color: var(--primary-hover);
+}
+
+.btn-secondary{
+    color: var(--primary);
+    background-color: var(--secondary-btn);
+    border-color: var(--secondary-hover);
+}
+
+.btn-secondary:hover{
+    color: var(--primary);
+    background-color: var(--secondary-hover);
+    border-color: var(--secondary-btn);
+    transition: color .3s ease-in-out;
+}
+
+.btn-secondary:focus{
+    color: var(--secondary);
+    background-color: var(--secondary-hover);
+    border-color: var(--secondary-hover);
+}
+
+.primary{
+    color: var(--secondary);
+    background-color: var(--primary);
+}
+
+.secondary{
+    color: var(--primary);
+    background-color: var(--secondary);
+}
+.input{
+    background-color:transparent;
+    color: var(--primary);
+    border:none;
+    border-bottom: 1px solid var(--primary);
+}
+
+.input:focus{
+    background-color:transparent;
+    color: var(--primary);
+    border:none;
+    border-bottom: 1px solid var(--primary-hover);
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.field-validation-error{
+    color: red;
+}
+
+.input-validation-error{
+    border: 1px solid red;
+}
+
+.close-alert{
+    position: absolute;
+    right: -10px;
+    top: -15px;
+    border-radius: 15px;
+    width: 25px;
+    height: 25px;
+    font-size: 10px;
+}
