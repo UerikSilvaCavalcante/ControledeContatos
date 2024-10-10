@@ -1,6 +1,6 @@
 [build]
 builder = "dockerfile"
-dockerfilePath = "./Dockerfile"
+dockerfilePath = "./dockerfile"
 buildCommand = "echo building!"
 
 [deploy]
