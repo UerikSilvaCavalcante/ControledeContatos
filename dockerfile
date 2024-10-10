@@ -1,9 +1,9 @@
 # Use a imagem oficial do .NET SDK
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copie os arquivos de projeto e restaure as dependências
-COPY *.csproj ./ControledeContatos
+COPY ControledeContatos/*.csproj ./
 RUN dotnet restore
 
 # Copie o restante dos arquivos e compile o projeto
@@ -11,7 +11,7 @@ COPY . ./ControledeContatos
 RUN dotnet publish -c Release -o out
 
 # Use a imagem oficial do .NET Runtime
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
 COPY --from=build /app/out .
 
