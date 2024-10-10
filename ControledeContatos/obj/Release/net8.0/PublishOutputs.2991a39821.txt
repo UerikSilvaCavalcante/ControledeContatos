@@ -1,0 +1,12 @@
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\ControledeContatos.exe
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\appsettings.Development.json
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\appsettings.json
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\ControledeContatos.dll
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\ControledeContatos.runtimeconfig.json
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\ControledeContatos.pdb
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\Microsoft.EntityFrameworkCore.dll
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\Npgsql.dll
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\out\ControledeContatos.deps.json

@@ -1,0 +1,15 @@
+[build]
+builder = "dockerfile"
+dockerfilePath = "./Dockerfile"
+buildCommand = "echo building!"
+
+[deploy]
+startCommand = "dotnet ControledeContatos.dll"
+healthcheckPath = "/"
+healthcheckTimeout = 100
+restartPolicyType = "never"
+
+
+
+
+--

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControledeContatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cabe623738ed78ef900989f5a7e2ad17530f56f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2726474da6c060480ba0d00d8967d3b2acac401b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControledeContatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControledeContatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
