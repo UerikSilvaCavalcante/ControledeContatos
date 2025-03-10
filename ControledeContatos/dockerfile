@@ -7,7 +7,7 @@ COPY ControledeContatos/*.csproj ./ControledeContatos/
 RUN dotnet restore ./ControledeContatos/*.csproj
 
 # Copie o restante dos arquivos e compile o projeto
-COPY . ./ControledeContatos
+COPY ControledeContatos/. ./ControledeContatos
 WORKDIR /app/ControledeContatos
 RUN dotnet publish -c Release -o out
 
