@@ -9,99 +9,99 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ControledeContatos
 build_property.RootNamespace = ControledeContatos
-build_property.ProjectDir = C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos\
+build_property.ProjectDir = /home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ueris\OneDrive\Documentos\Progamação\C#-Project\ControledeContatos\ControledeContatos
+build_property.MSBuildProjectDirectory = /home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/AlterarSenha/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx0ZXJhclNlbmhhXEluZGV4LmNzaHRtbA==
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/AlterarSenha/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx0ZXJhclNlbmhhL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Contato/Apagar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXIuY3NodG1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Contato/Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9BcGFnYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Contato/Criar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xDcmlhci5jc2h0bWw=
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Contato/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9Dcmlhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Contato/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xFZGl0YXIuY3NodG1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Contato/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9FZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Contato/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xJbmRleC5jc2h0bWw=
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Contato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Login/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Login/RedefinirSenha.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVkZWZpbmlyU2VuaGEuY3NodG1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Login/RedefinirSenha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vUmVkZWZpbmlyU2VuaGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Restrito/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdHJpdG9cSW5kZXguY3NodG1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Restrito/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzdHJpdG8vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Shared/Components/Menu/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTWVudS9EZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Usuario/Apagar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBcGFnYXIuY3NodG1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Usuario/Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9BcGFnYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Usuario/Criar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmlhci5jc2h0bWw=
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Usuario/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9Dcmlhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Usuario/Editar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0YXIuY3NodG1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Usuario/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9FZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Usuario/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Usuario/_ContatosUsuario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xfQ29udGF0b3NVc3VhcmlvLmNzaHRtbA==
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Usuario/_ContatosUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9fQ29udGF0b3NVc3VhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-i53sr52xm1
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5w41c6nrsf
 
-[C:/Users/ueris/OneDrive/Documentos/Progamação/C\#-Project/ControledeContatos/ControledeContatos/Views/Shared/_LayoutDeslogado.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREZXNsb2dhZG8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-gaq47doz1s
+[/home/uerik/Documentos/Progamacao/CSharpProjects/ControledeContatos/ControledeContatos/Views/Shared/_LayoutDeslogado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXREZXNsb2dhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-evrikcol4v
