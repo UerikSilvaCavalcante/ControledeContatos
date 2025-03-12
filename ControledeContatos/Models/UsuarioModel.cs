@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ControledeContatos.Models
 {
-    [Table("Usuarios")]
+    [Table("usuarios")]
     public class UsuarioModel
     {
         [Column("Id")]

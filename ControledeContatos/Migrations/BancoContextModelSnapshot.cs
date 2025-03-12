@@ -54,7 +54,7 @@ namespace ControledeContatos.Migrations
 
                     b.HasIndex("UsuarioId");
 
-                    b.ToTable("Contatos", (string)null);
+                    b.ToTable("contatos");
                 });
 
             modelBuilder.Entity("ControledeContatos.Models.UsuarioModel", b =>
@@ -100,16 +100,28 @@ namespace ControledeContatos.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Usuarios");
+                    b.ToTable("usuarios");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            DataCadastro = new DateTime(2025, 3, 12, 0, 19, 29, 481, DateTimeKind.Utc).AddTicks(430),
+                            Email = "turistajose1@gmail.com",
+                            Login = "admin",
+                            Nome = "Admin",
+                            Perfil = 1,
+                            Senha = "f865b53623b121fd34ee5426c792e5c33af8c227"
+                        });
                 });
 
             modelBuilder.Entity("ControledeContatos.Models.ContatoModel", b =>
                 {
-                    b.HasOne("ControledeContatos.Models.UsuarioModel", "usuario")
+                    b.HasOne("ControledeContatos.Models.UsuarioModel", "UsuariO")
                         .WithMany("Contatos")
                         .HasForeignKey("UsuarioId");
 
-                    b.Navigation("usuario");
+                    b.Navigation("UsuariO");
                 });
 
             modelBuilder.Entity("ControledeContatos.Models.UsuarioModel", b =>
